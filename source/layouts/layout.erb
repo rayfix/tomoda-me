@@ -1,0 +1,67 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title><%= data.page.title %></title>
+    
+    <%= stylesheet_link_tag "app", "style" %>
+    <%= javascript_include_tag "modernizr" %>
+  </head>
+  
+  <body class="<%= page_classes %>">
+  <div class="off-canvas-wrap wrapper" data-offcanvas>
+    <div class="inner-wrap">
+      <nav class="tab-bar hide-for-medium-up">
+        <section class="left-small">
+          <a class="left-off-canvas-toggle menu-icon" href="#"><span id="menu-indent">Menu</span></a>
+        </section>
+      </nav>
+      <aside class="left-off-canvas-menu">
+        <ul class="off-canvas-list">
+          <%= partial(:menu) %>
+        </ul>
+      </aside>
+      <a class="exit-off-canvas"></a>
+
+      <div class="show-for-medium-up contain-to-grid">
+        <nav class="top-bar show-for-medium-up" data-topbar>
+          <ul class="title-area">
+            <li class="name"><a href="/">Age2企画</a></li>
+            <li class="toggle-topbar menu-icon"><a href="#">メニュー</a></li>
+          </ul>
+          <section class="top-bar-section right">
+            <ul>
+              <%= partial(:menu) %>
+            </ul>
+          </section>
+        </nav>
+      </div>
+
+    <main>
+<header class="centered">
+  <img class="mast" src="/images/title.png" alt="福井大学子どものこころの発達研究センターAge2企画 研究室" width="573" height="296">
+</header>
+      <div class="row">
+        <div class="small-12 columns">
+          <%= yield %>
+        </div>
+      </div>
+    </main>
+    </div> <!-- inner wrap -->
+  </div> <!-- off canvas -->
+  <%= javascript_include_tag  "all" %>
+    <footer>
+      <div class="row">
+        <div class="large-offset-6 large-6 columns">      
+          <div class="topspace right">&copy; 2014</div>
+        </div>
+      </div>
+    </footer>
+    <%= partial(:analytics) %>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,116 @@
+
+header {
+  height: 16em;
+  background-color: #4a90e2;
+  color: #fff;
+  max-width: 100%;
+  margin-bottom: 1em;
+}
+
+li.name a {
+  line-height: 45px;
+  color: white;
+}
+
+img.mast {
+  margin: 4em 1em;
+}
+
+h3.title {
+  border-bottom: 1px dashed #777;
+  margin-bottom: 1em;
+  color: #777;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+}
+
+.centered {
+  text-align: center;
+}
+
+ul.plain-spaced {
+  list-style-image: url(/images/bullet.png);
+}
+
+ul.plain-spaced li {
+  margin-bottom: 1em;
+}
+
+ul.plain-spaced a {
+  font-weight: bold;
+}
+
+ol.spaced li {
+  margin-bottom: 2em;
+}
+
+ol.spaced a {
+  font-weight: bold;
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px dashed #999;
+}
+
+#menu-indent {
+  padding-left: 2em;
+}
+
+.topspace {
+  margin-top: 2em;
+}
+
+.big {
+  font-size: 180%;
+}
+
+h4 {
+  color: #999; // #4a90e2;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.light {
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-weight: lighter;
+}
+
+// Sticky footer
+
+html,
+body {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+main {
+  height: 100%;
+  padding-bottom: 5em;
+}
+
+.wrapper {
+  min-height: 100%;
+  position: relative;
+}
+
+ul.spaced li {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+footer {
+  background-color: #333;
+  color: #aaa;
+  width:100%;
+  height: 5em;
+  bottom:0;
+  left:0;
+  margin-top: -5em;
+}
+
