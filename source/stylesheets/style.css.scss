@@ -42,6 +42,24 @@ ul.plain-spaced a {
   font-weight: bold;
 }
 
+ul.research {
+  list-style: none;
+  margin: 0 3em;
+}
+
+ul.research li:before {
+    content: '研究成果報道';
+    font-weight: bold;
+}
+
+ul.research li {
+  margin-bottom: 1em;
+}
+
+ul.research a {
+  font-weight: bold;
+}
+
 ol.spaced li {
   margin-bottom: 2em;
 }
