@@ -1,8 +1,4 @@
-# Middleman Template: ZURB Foundation #
-
-middleman-zurb-foundation is a minimal [Middleman](http://middlemanapp.com/) project template with the [SASS](http://sass-lang.com/) version of the [ZURB Foundation](http://foundation.zurb.com/) Framework.
-
-## Installation ##
+## Making changes ##
 
 Make sure to have:
 
@@ -11,6 +7,24 @@ Make sure to have:
 1. middleman ($ `gem install middleman`)
 1. bower ($ `npm install -g bower`)
 
+After cloning the repository
+
+1. $ `bower install`
+1. $ `bundle install`
+1. $ `bundle exec middleman`
+
+Now you can start hacking on `source` directory and watch live changes on [localhost:4567](http://localhost:4567).
+
+Once you are happy with your changes you can commit to your fork and submit a pull reqeust.
+
+----
+
+
+# Middleman Template (Historical) #
+
+middleman-zurb-foundation is a minimal [Middleman](http://middlemanapp.com/) project template with the [SASS](http://sass-lang.com/) version of the [ZURB Foundation](http://foundation.zurb.com/) Framework.
+
+## Setting Up New Projects ##
 
 Clone into ~/.middleman (you'll have to create this directory if it's not already there). You can then use it with the `--template` flag on `middleman init`.
 
