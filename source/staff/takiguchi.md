@@ -26,4 +26,6 @@ title: 滝口 慎一郎（医学研究科博士課程 D3）
 福井大学附属病院子どものこころ診療部・平谷子ども発達クリニック　滝口慎一郎
 
 ### 関連記事
-[元気で医こう　滝口記事](/resources/Genkideikou_Takiguchi.pdf)
+- [元気で医こう　滝口記事 (1)](/resources/Genkideikou_Takiguchi.pdf)
+- [元気で医こう　滝口記事 (2)](/resources/Genkideikou_Takiguchi2.pdf)
+
