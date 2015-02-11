@@ -26,8 +26,16 @@ h1, h2, h3, h4, h5 {
   font-weight: bold;
 }
 
+h4.boxtitle {
+  font-size: 100%;
+  color: #30af4e;
+  background-color: #edf0fe;
+  padding: 0.5em;
+}
+
 .centered {
   text-align: center;
+
 }
 
 ul.plain-spaced {
