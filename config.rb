@@ -65,7 +65,7 @@ end
 # activate :automatic_image_sizes
 
 # Reload the browser automatically whenever files change
-activate :livereload
+activate :livereload, :no_swf => true
 
 activate :i18n, :mount_at_root => false
 
