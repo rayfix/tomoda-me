@@ -47,6 +47,9 @@ GEM
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
+    mgd (0.2.0)
+      middleman (>= 3.0.0)
+      trollop (= 2.1.2)
     middleman (3.3.10)
       coffee-script (~> 2.2)
       compass (>= 1.0.0, < 2.0.0)
@@ -120,6 +123,7 @@ GEM
     tilt (1.4.1)
     timers (4.0.1)
       hitimes
+    trollop (2.1.2)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uber (0.0.13)
@@ -131,8 +135,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  middleman
+  mgd
+  middleman (~> 3.3.10)
   middleman-deploy
   middleman-livereload
   ruby18_source_location
   wdm (~> 0.1.0)
+
+BUNDLED WITH
+   1.15.4
