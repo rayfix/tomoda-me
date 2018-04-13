@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* line 2, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 2, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 header {
   height: 16em;
   background-color: #4a90e2;
@@ -7,127 +7,127 @@ header {
   max-width: 100%;
   margin-bottom: 1em; }
 
-/* line 10, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 10, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 li.name a {
   line-height: 45px;
   color: white; }
 
-/* line 15, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 15, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 img.mast {
   margin: 4em 1em; }
 
-/* line 19, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 19, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 h3.title {
   border-bottom: 1px dashed #777;
   margin-bottom: 1em;
   color: #777; }
 
-/* line 25, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 25, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 h1, h2, h3, h4, h5 {
   font-weight: bold; }
 
-/* line 29, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 29, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 h4.boxtitle {
   font-size: 100%;
   color: #30af4e;
   background-color: #edf0fe;
   padding: 0.5em; }
 
-/* line 36, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 36, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 .centered {
   text-align: center; }
 
-/* line 41, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 41, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ul.plain-spaced {
   list-style-image: url(/images/bullet.png); }
 
-/* line 45, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 45, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ul.plain-spaced li {
   margin-bottom: 1em; }
 
-/* line 49, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 49, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ul.plain-spaced a {
   font-weight: bold; }
 
-/* line 53, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 53, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ul.research {
   list-style: none;
   margin: 0 3em; }
 
-/* line 58, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 58, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ul.research li:before {
   content: '研究成果報道';
   font-weight: bold; }
 
-/* line 63, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 63, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ul.research li {
   margin-bottom: 1em; }
 
-/* line 67, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 67, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ul.research a {
   font-weight: bold; }
 
-/* line 71, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 71, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ol.spaced li {
   margin-bottom: 2em; }
 
-/* line 75, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 75, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ol.spaced a {
   font-weight: bold; }
 
-/* line 79, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 79, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 hr {
   border: 0;
   border-bottom: 1px dashed #999; }
 
-/* line 84, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 84, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 #menu-indent {
   padding-left: 2em; }
 
-/* line 88, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 88, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 .topspace {
   margin-top: 2em; }
 
-/* line 92, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 92, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 .big {
   font-size: 180%; }
 
-/* line 96, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 96, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 h4 {
   color: #999; }
 
-/* line 100, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 100, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 .white-text {
   color: #fff; }
 
-/* line 104, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 104, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 .light {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   font-weight: lighter; }
 
-/* line 111, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 111, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 html,
 body {
   margin: 0;
   padding: 0;
   height: 100%; }
 
-/* line 118, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 118, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 main {
   height: 100%;
   padding-bottom: 5em; }
 
-/* line 123, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 123, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 .wrapper {
   min-height: 100%;
   position: relative; }
 
-/* line 128, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 128, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 ul.spaced li {
   margin-top: 1em;
   margin-bottom: 1em; }
 
-/* line 133, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.OcHndV51/clone/source/stylesheets/style.css.scss */
+/* line 133, /private/var/folders/n8/cgcw0ndx28v3y_zczm2fzdcw0000gn/T/mgd-XXX.I3sch5Jq/clone/source/stylesheets/style.css.scss */
 footer {
   background-color: #333;
   color: #aaa;
