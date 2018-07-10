@@ -3,7 +3,7 @@ title: 熊崎 博一 (特命助教）
 ---
 ## 熊崎 博一 
 
-#### 特命助教
+#### 金沢大学
 
 ![熊崎博一](/images/kumazaki.png){: style="float:right"}
 
