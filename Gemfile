@@ -7,7 +7,7 @@ gem "middleman", '~> 3.3.10'
 # Live-reloading plugin
 gem "middleman-livereload"
 
-gem "middleman-deploy"
+# gem "middleman-deploy"
 gem "mgd"
 
 # For faster file watcher updates on Windows:
