@@ -21,8 +21,6 @@ title: 藤澤 隆史(講師)
 #### 詳細
 [https://sites.google.com/site/txfujisawa/](https://sites.google.com/site/txfujisawa/)
 
-![藤澤隆史](/images/fujisawa.png){: style="float:right"}
-
 
 #### 訳本のご紹介　
 
